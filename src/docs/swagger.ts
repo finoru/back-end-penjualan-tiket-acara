@@ -12,7 +12,7 @@ const doc = {
       description: "Local Server",
     },
     {
-      url: "https://back-end-penjualan-tiket-acara.vercel.app/",
+      url: "https://back-end-penjualan-tiket-acara.vercel.app/api",
       description: "Deploy Server",
     },
   ],
